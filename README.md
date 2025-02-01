@@ -18,4 +18,3 @@
 
 <h3 align="center">Driven by Curiosity and Innovation</h3>
 <h1 align="center">👋 Hi, I'm Daechan Hwang</h1>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkdeocks123)](https://solved.ac/ghkdeocks123/)
